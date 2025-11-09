@@ -1,0 +1,10 @@
+.form-control:focus {
+    border-color: #17506B;
+    box-shadow: 0 0 0 #17506B;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #000000, #17506B, #066B9C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

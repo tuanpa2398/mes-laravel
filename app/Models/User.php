@@ -21,6 +21,19 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'first_name',
+        'last_name',
+        'gender',
+        'role',
+        'avatar',
+        'plant',
+        'sap_id',
+        'integration_id',
+        'other_info',
+        'branch',
+        'is_block',
+        'imagesign',
+        'username'
     ];
 
     /**
